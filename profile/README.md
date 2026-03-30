@@ -47,33 +47,3 @@ See [CONTRIBUTING.md](../methodology/blob/main/CONTRIBUTING.md) to get started.
 *openecosystem.ch*
 ```
 
-4. Click **"Commit changes"** → commit directly to main
-
-Once you commit, the content of this README will appear on the organization's Overview page, visible to everyone. 
-
----
-
-## Step 3 – Pin the methodology repository
-
-Now that the homepage exists, make `methodology` the first thing people see:
-
-1. Go to `github.com/open-ecosystem-collective`
-2. On the Overview tab, click **"Customize your organization's profile"** (small link near the top right)
-3. Under **"Pinned repositories"** select `methodology`
-4. Save
-
-It will now appear prominently on the homepage above the regular repositories list.
-
----
-
-## What your structure looks like now
-```
-github.com/open-ecosystem-collective/
-│
-├── .github/
-│   └── profile/
-│       └── README.md          ← Organization homepage content
-│
-└── methodology/               ← Your first contribution (already exists)
-    ├── README.md
-    └── (assessment files)
