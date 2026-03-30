@@ -28,7 +28,7 @@ We bridge that gap - openly, transparently, as a community.
 
 ## How to use this
 
-Everything is licensed **CC-BY-SA 4.0** — use it, adapt it, give back.
+Everything is licensed **CC-BY-SA 4.0** - use it, adapt it, give back.
 
 → Start with the [Partner Ecosystem Maturity Assessment](../methodology)  
 → Read the [Values Charter](../governance)  
@@ -43,7 +43,7 @@ See [CONTRIBUTING.md](../methodology/blob/main/CONTRIBUTING.md) to get started.
 
 ---
 
-*Founded by Tania Romero Campos · Kanton Aargau, Switzerland · 2026*  
+*Founded by Tania Vonarburg-Romero · Kanton Aargau, Switzerland · 2026*  
 *openecosystem.ch*
 ```
 
